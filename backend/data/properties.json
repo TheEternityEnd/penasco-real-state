@@ -1,0 +1,249 @@
+[
+  {
+    "id": "1",
+    "title": "Villa Paraíso - Frente a Playa Sandy Beach",
+    "slug": "villa-paraiso-sandy-beach",
+    "price": 850000,
+    "currency": "USD",
+    "location": "Sandy Beach, Puerto Peñasco, Sonora",
+    "zone": "Sandy Beach",
+    "propertyType": "Casa / Villa",
+    "status": "En Venta",
+    "badge": "Frente al Mar",
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "areaSqM": 380,
+    "areaSqFt": 4090,
+    "parkingSpaces": 2,
+    "yearBuilt": 2023,
+    "shortDescription": "Lujosa villa contemporánea con acceso privado a la playa, alberca infinita privada y vistas panorámicas ininterrumpidas del Mar de Cortés.",
+    "description": "Descubre el pináculo del lujo costero en Villa Paraíso, ubicada en la codiciada franja de Sandy Beach en Puerto Peñasco. Esta residencia llave en mano ofrece una arquitectura vanguardista combinada con acabados artesanales en mármol travertino y maderas finas. Los ventanales de piso a techo integran de forma natural la amplia sala con la terraza exterior, creando un ambiente perfecto para el entretenimiento. La suite principal cuenta con vestidor privado, tina con hidromasaje y balcón privado orientado hacia los espectaculares atardeceres del océano.",
+    "features": [
+      "Acceso directo y privado a la playa",
+      "Alberca infinita climatizada",
+      "Terraza techada con asador empotrado",
+      "Cocina gourmet con isla de cuarzo y electrodomésticos Sub-Zero",
+      "Seguridad privada las 24 horas",
+      "Sistema de climatización inteligente por zonas",
+      "Garaje cerrado para 2 vehículos y RZR/cuatrimoto"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "agent": {
+      "name": "Sofía Morales",
+      "role": "Directora de Ventas de Lujo",
+      "phone": "+52 (638) 102-3490",
+      "email": "sofia.morales@penascorealestate.com",
+      "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Penthouse Sky Azure - Sonoran Sky Resort",
+    "slug": "penthouse-sky-azure-sonoran-sky",
+    "price": 620000,
+    "currency": "USD",
+    "location": "Paseo de las Ballenas, Sandy Beach, Puerto Peñasco",
+    "zone": "Sandy Beach",
+    "propertyType": "Penthouse",
+    "status": "En Venta",
+    "badge": "Exclusivo",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqM": 260,
+    "areaSqFt": 2798,
+    "parkingSpaces": 2,
+    "yearBuilt": 2022,
+    "shortDescription": "Penthouse de nivel 14 con terraza envolvente, jacuzzi privado y vistas de 270 grados al Mar de Cortés y las luces del puerto.",
+    "description": "Viva en las alturas con Sky Azure, un penthouse diseñado para quienes exigen lo extraordinario. Ubicado en el prestigioso complejo Sonoran Sky, esta propiedad cuenta con techos de 3.2 metros de altura, pisos de porcelanato pulido y una barra exterior totalmente equipada con jacuzzi privado. Diseñado para maximizar el flujo de aire marino y la luz natural, este penthouse genera altos rendimientos en el mercado de rentas vacacionales de lujo.",
+    "features": [
+      "Jacuzzi privado en la terraza panorámica",
+      "Gimnasio y spa de servicio completo en el resort",
+      "Bar de piscina (swim-up bar) y tobogán acuático",
+      "Elevador directo con control de acceso inteligente",
+      "Restaurante gourmet en planta baja",
+      "Totalmente amueblado y decorado por diseñador",
+      "Altísimo retorno de inversión (ROI comprobable)"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "agent": {
+      "name": "Carlos Mendoza",
+      "role": "Especialista en Inversión Extranjera",
+      "phone": "+52 (638) 383-7721",
+      "email": "carlos.mendoza@penascorealestate.com",
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Condominio Bella Sirena - Jardines y Mar",
+    "slug": "condominio-bella-sirena-jardines-mar",
+    "price": 435000,
+    "currency": "USD",
+    "location": "Bella Sirena Resort, Puerto Peñasco, Sonora",
+    "zone": "Sandy Beach",
+    "propertyType": "Condominio",
+    "status": "En Venta",
+    "badge": "Oportunidad",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqM": 175,
+    "areaSqFt": 1883,
+    "parkingSpaces": 1,
+    "yearBuilt": 2021,
+    "shortDescription": "Elegante condominio en planta intermedia rodeado de jardines tropicales estilo toscano y albercas estilo laguna.",
+    "description": "Bella Sirena es sinónimo de serenidad y sofisticación en Puerto Peñasco. Este condominio de dos recámaras destaca por su cocina abierta con barra de granito, carpintería sólida en madera de aliso y una terraza espaciosa con vista al mar y jardines zen. Ideal tanto para retiro permanente como para una casa vacacional con bajo costo de mantenimiento.",
+    "features": [
+      "5 albercas climatizadas en el desarrollo",
+      "Canchas de tenis y pickleball",
+      "Lounge bar frente al mar exclusivo para residentes",
+      "Acceso directo a playa de oleaje tranquilo",
+      "Aire acondicionado central de alta eficiencia",
+      "Completamente equipado y listo para habitarse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "agent": {
+      "name": "Sofía Morales",
+      "role": "Directora de Ventas de Lujo",
+      "phone": "+52 (638) 102-3490",
+      "email": "sofia.morales@penascorealestate.com",
+      "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Residencia Las Conchas - Santuario Costero",
+    "slug": "residencia-las-conchas-santuario",
+    "price": 725000,
+    "currency": "USD",
+    "location": "Sección Costa, Las Conchas, Puerto Peñasco",
+    "zone": "Las Conchas",
+    "propertyType": "Casa / Villa",
+    "status": "En Venta",
+    "badge": "Frente al Mar",
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "areaSqM": 320,
+    "areaSqFt": 3444,
+    "parkingSpaces": 2,
+    "yearBuilt": 2020,
+    "shortDescription": "Casa de playa privada en la exclusiva comunidad cerrada de Las Conchas, con escalones directos a la arena suave.",
+    "description": "Las Conchas es la comunidad residencial costera por excelencia en Peñasco, reconocida por su privacidad y tranquilidad. Esta propiedad ofrece techos con bóveda catalana de ladrillo rojo, chimenea de gas para las noches de invierno y un patio central con fuente de cantera. La amplia terraza frente al mar cuenta con sala lounge integrada y fogatero (fire-pit) exterior para contemplar las estrellas.",
+    "features": [
+      "Escalera privada con acceso directo a la arena",
+      "Fogatero a gas en terraza frente al mar",
+      "Comunidad cerrada con caseta de vigilancia 24/7",
+      "Cocina artesanal mexicana moderna",
+      "Cisterna de alta capacidad con sistema de filtración UV",
+      "Estacionamiento techado y bodega para kayaks"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "agent": {
+      "name": "Carlos Mendoza",
+      "role": "Especialista en Inversión Extranjera",
+      "phone": "+52 (638) 383-7721",
+      "email": "carlos.mendoza@penascorealestate.com",
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Marina Sunset Residence - Vista al Faro",
+    "slug": "marina-sunset-residence-vista-al-faro",
+    "price": 315000,
+    "currency": "USD",
+    "location": "Dársena del Puerto, Puerto Peñasco, Sonora",
+    "zone": "Marina",
+    "propertyType": "Condominio",
+    "status": "En Venta",
+    "badge": "Nuevo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqM": 140,
+    "areaSqFt": 1506,
+    "parkingSpaces": 1,
+    "yearBuilt": 2024,
+    "shortDescription": "Moderno departamento con vista a los muelles de la marina, yates y a pasos de los mejores restaurantes de mariscos.",
+    "description": "Experimente el vibrante estilo de vida náutico en este moderno condominio frente a la marina. Con acabados de estilo minimalista industrial, electrodomésticos de acero inoxidable y ventanales con doble acristalamiento acústico y térmico. Disfrute de la vida a pie, paseando hacia el malecón fundadores, mercados locales y marinas deportivas.",
+    "features": [
+      "Vista frontal a la marina y barcos de recreo",
+      "Rooftop comunal con alberca de borde infinito y bar",
+      "A solo 3 minutos caminando del Malecón",
+      "Membresía preferencial para atraque en muelle",
+      "Seguridad con circuito cerrado y chapa digital biométrica"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "agent": {
+      "name": "Sofía Morales",
+      "role": "Directora de Ventas de Lujo",
+      "phone": "+52 (638) 102-3490",
+      "email": "sofia.morales@penascorealestate.com",
+      "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Villa Choya Bay - Atardecer en el Morro",
+    "slug": "villa-choya-bay-morro",
+    "price": 540000,
+    "currency": "USD",
+    "location": "La Cholla / Choya Bay, Puerto Peñasco, Sonora",
+    "zone": "Choya Bay",
+    "propertyType": "Casa / Villa",
+    "status": "En Venta",
+    "badge": "Vista 360°",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqM": 290,
+    "areaSqFt": 3121,
+    "parkingSpaces": 2,
+    "yearBuilt": 2022,
+    "shortDescription": "Espectacular villa sobre la colina de Choya Bay con vistas de 360 grados al estero de Morúa y al mar abierto.",
+    "description": "Ubicada en una posición elevada privilegiada sobre la bahía de Choya, esta casa ofrece vistas panorámicas inigualables donde el desierto sonorense se funde con las aguas turquesa del golfo. Cuenta con alberca voladiza, paneles solares de última generación con baterías Tesla Powerwall y una cava de vinos subterránea climatizada.",
+    "features": [
+      "Sistema de energía solar autónomo con respaldo de baterías",
+      "Alberca voladiza estilo infinito con vista a la bahía",
+      "Roof garden con pérgola de madera de teca",
+      "Cava subterránea para más de 200 botellas",
+      "Pozo de agua purificada propio",
+      "Ideal para amantes de la pesca deportiva y navegación"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "agent": {
+      "name": "Carlos Mendoza",
+      "role": "Especialista en Inversión Extranjera",
+      "phone": "+52 (638) 383-7721",
+      "email": "carlos.mendoza@penascorealestate.com",
+      "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=300&q=80"
+    }
+  }
+]

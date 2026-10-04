@@ -1,0 +1,21 @@
+{
+  "name": "penasco-real-state-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monorepo para aplicación de Real Estate con Vite + React y Express Serverless optimizado para Vercel",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
